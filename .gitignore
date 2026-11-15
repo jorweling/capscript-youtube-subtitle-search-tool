@@ -1,0 +1,4 @@
+.pnpm-store/
+*.tgz
+npm-debug.log*
+coverage/
